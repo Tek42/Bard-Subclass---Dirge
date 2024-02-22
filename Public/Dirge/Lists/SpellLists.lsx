@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 3" />
+                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Dirge_MagicMissile_Container;Target_Swarm_Rat" /> 
+                    <attribute id="UUID" type="guid" value="73f90440-3322-4847-8c5a-f739899fff95" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 4" />
+                    <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade" />
+                    <attribute id="UUID" type="guid" value="5e3e1291-8a2e-4fff-b829-fe3d4e8835e2" />
+        </node>s
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 5" />
+                    <attribute id="Spells" type="LSString" value="Target_AnimateDead;Target_ValkranaImpartUndeath;Dirge_SpiritGuardians_Container" />
+                    <attribute id="UUID" type="guid" value="6f1cf77d-6613-4a24-bc55-7787ac2043dc" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 6" />
+                    <attribute id="Spells" type="LSString" value="Target_ValkranaSkeleport" />
+                    <attribute id="UUID" type="guid" value="7a4a236c-96b7-4eed-98e0-21cf7aa88df3" />
+        </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 7" />
+                    <attribute id="Spells" type="LSString" value="" />
+                    <attribute id="UUID" type="guid" value="976d0bee-52e6-4a01-a76e-4da4016b1a25" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 8" />
+                    <attribute id="Spells" type="LSString" value="Target_DestroyUndead_Shot;Target_HealUndead_Shot" /> 
+                    <attribute id="UUID" type="guid" value="a5ef9189-cc56-4f2f-b974-e252d19f562b" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 9" />
+                    <attribute id="Spells" type="LSString" value="" /> 
+                    <attribute id="UUID" type="guid" value="db23ed1d-1afd-48d4-8c03-7054d78b43da" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 10" />
+                    <attribute id="Spells" type="LSString" value="Target_Resurrect_Shot" /> 
+                    <attribute id="UUID" type="guid" value="ca17a71e-86b8-4e52-af0c-2ea7c42e3c72" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 11" />
+                    <attribute id="Spells" type="LSString" value="Dethrone" /> 
+                    <attribute id="UUID" type="guid" value="8942b2f6-53e6-494f-b395-fc275ae3c02a" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Dirge Level 12" />
+                    <attribute id="Spells" type="LSString" value="Target_CreateUndead" /> 
+                    <attribute id="UUID" type="guid" value="58b4fad4-2ef4-4c27-94b1-d5a545882746" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

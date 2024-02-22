@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hd64fcc4eg3702g4897gbcd5g5fa6972566e8" version="1">Dirge</content>
+	<content contentuid="habf94624g1ea5g4af3gb717gca10ea61cbea" version="1">A Bard whose performances can usually be heard during somber times. This subclass bridges the gap between life and unlife. Focusing on necromancy and dabbling in healing.</content>
+	<content contentuid="h363ec077gd367g46cbg9348ge77e23aaafc5" version="1">Necrotic Missiles</content>
+	<content contentuid="hb9f0fb31g3450g456agaffeg6f54d6b2b1e1" version="1">Shoot [2] magical darts, each dealing [1]. They always hit their target.</content>
+	<content contentuid="hd9a7b646g12cag40c6g98b7g0aac2d90214e" version="1">Destroy Undead Shot</content>
+	<content contentuid="h35cf63edgde12g433eg947cg6a38ffc400e2" version="2">&lt;LSTag Type="Spell" Tooltip="Shout_TurnUndead"&gt;Turn&lt;/LSTag&gt; an undead creature, it also takes [1].</content>
+	<content contentuid="h04e80196g47e4g4d59g9e6egd10074c8215c" version="1">Undead Healing Shot!</content>
+	<content contentuid="h8c58d3a3g4461g4e29g9448g5aeaf5916451" version="1">This shot heals up to two undead allies 25% of their max HP.</content>
+	<content contentuid="hde81dd09g69afg46ecg88f1gca0d59f07500" version="1">Rise!</content>
+	<content contentuid="hebd1f1e2g0d10g4ef5ga3acgc80c96e7788b" version="1">You channel your song and your willpower into a powerful shot that heals an ally for 33% of their max HP, this will even bring a dead compantion back to life.</content>
+	<content contentuid="he29314d5gb747g4907gbda8g0be7ddbf9b61" version="1">Necrotic Adept</content>
+	<content contentuid="h8dd4ea5agbd83g44d4g909egebec67ac24a8" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
+	<content contentuid="h28d8bcfbg0eeag401egbca2g270a36290c63" version="1">Necrotic Rat Swarm</content>
+	<content contentuid="h5f6051e9g79a0g4a53g8464g93280199ae9e" version="1">Ok, it's just three necrotic graveyard rats. But they believe they are a swarm. Please support their choices.</content>
+	<content contentuid="h07c5ae82g839cg4879g9775gcdbe0027868a" version="1"></content>
+	<content contentuid="hb8b2d039g0b02g408cg905cg45d12590aa8b" version="1"></content>
+	<content contentuid="hd7803e4agef63g4b0cgab7bgfdbd02521bee" version="1"></content>
+	<content contentuid="he10b6a39g02e9g42dag8100g1a87c85a2b07" version="1"></content>
+	<content contentuid="h42426671gd45ag4f64ga474g114316adbfcf" version="1"></content>
+	<content contentuid="h3ca6577cgdd1ag4f30g9e3agd5c208699bba" version="1"></content>
+	<content contentuid="h1a57fee8ge0e7g4787gbf5cg7bb410292af5" version="1"></content>
+	<content contentuid="h014ab8a7g4158g4e42g8188gb3ab73df0bc9" version="1"></content>
+	<content contentuid="h777931f7g0905g4dddgb908g9a56a7b2c7e7" version="1"></content>
+	<content contentuid="h796216f6g1a37g499bg89f0gc5c24a1e2969" version="1"></content>
+	<content contentuid="hec09ce6dg0757g41abgb8e0g577efc0b6b86" version="1"></content>
+	<content contentuid="ha26d9de7g6b1eg41f1g9b3bg89a252113976" version="1"></content>
+	<content contentuid="h76fccd88g4c20g4fabga872g6de2c9a21703" version="1"></content>
+    <content contentuid="hc5ec3e5c25bd44afbdcb62385ac2b7b56g69" version="1"></content>
+    <content contentuid="h73d277fe9541440282f67dfd199dcc5155f0" version="1">Necroblades</content>
+    <content contentuid="hb8725bb9d85340a1bd65c939366d8df8a788" version="1">Necroblades</content>
+</contentList>

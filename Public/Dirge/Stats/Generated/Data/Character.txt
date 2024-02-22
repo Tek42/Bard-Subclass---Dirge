@@ -1,0 +1,6 @@
+new entry "Companion_Rat_Swarm"
+type "Character"
+using "Companion_Rat"
+data "PersonalStatusImmunities" "BLINDED;BLINDED_DARKNESS"
+data "Passives" "AttackOfOpportunity;DarknessRules;ShortResting;ThirdEye"
+data "DifficultyStatuses" "STATUS_EASY:PLAYER_BONUSES_EASYMODE"

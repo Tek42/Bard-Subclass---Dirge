@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value=""/>
+                    <attribute id="Level1" type="LSString" value=""/>
+                    <attribute id="Level10" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level11" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Level12" type="LSString" value="3d8,Necrotic"/>
+                    <attribute id="Level3" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level4" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level5" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level6" type="LSString" value="1d8,Necrotic"/>
+                    <attribute id="Level7" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level8" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Level9" type="LSString" value="2d8,Necrotic"/>
+                    <attribute id="Name" type="FixedString" value="DirgeNecrotic"/>
+                    <attribute id="UUID" type="guid" value="bc8431b6-ba85-433c-a0bd-58760318478c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

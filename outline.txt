@@ -1,0 +1,21 @@
+Dirge Class Outline
+
+Mod Requirements - Firearms, Tombstone Undead, Animate Dead++, Valkrana's Spellbook, Elemental Magic Missiles, Shivero VFX
+Stats - Usual Bard stats.
+Proficiencies - Regular Bard profs.
+
+Level 1 - Bard
+Level 2 - Bard
+Level 3 - Dirge - False Life, Necrotic Damage Missiles (Shiv Missiles), 3 skels (Valkrana)
+Level 4 - Dirge - Corpse Grenade (Valkrana), Spirit Guardians (Necrotic only) <- Heals undead in range?
+Level 5 - Dirge - Animate Dead, Custom Banish Undead Shot (Banishment)
+Level 6 - Dirge - Skeleport (Valkrana)
+Level 7 - Dirge - Control Undead Shot, Heal Ally Undead Shot (custom)
+Level 8 - Dirge - Custom Undead Frenzy/Rage Shot
+Level 9 - Dirge - Custom Negative Energy Field with bard casting animation (Valkrana)
+Level 10 - Dirge - Dread Skel (Valkrana), Custom Destroy Undead Shot 6d8?, Custom Resurrection Shot (once per long rest)
+Level 11 - Dirge - Dethrone
+Level 12 - Dirge - Create Undead 
+
+
+
