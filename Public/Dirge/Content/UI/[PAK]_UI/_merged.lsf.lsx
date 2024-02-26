@@ -79,7 +79,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="b3654bdb-4067-4d43-bb81-164d1287ce6c" />
+					<attribute id="ID" type="FixedString" value="4ea190b1-5eff-4eb9-83a8-e75af3a344ae" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Icons_Dirge" />
 					<attribute id="SRGB" type="bool" value="True" />

@@ -14,4 +14,6 @@
 	<content contentuid="h8dd4ea5agbd83g44d4g909egebec67ac24a8" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic damage. In addition, when you deal Necrotic damage with a spell, you cannot roll a [1].</content>
 	<content contentuid="h28d8bcfbg0eeag401egbca2g270a36290c63" version="1">Necrotic Rat Swarm</content>
 	<content contentuid="h5f6051e9g79a0g4a53g8464g93280199ae9e" version="1">Ok, it's just three necrotic graveyard rats. But they believe they are a swarm. Please support their choices.</content>
+    <content contentuid="ha95bdfc3f6fb4b98b8060945661a6d0975g0" version="1">Bad Moon Rising</content>
+    <content contentuid="h89369c2636f749da8ef79a87860528c05680" version="1">A beam of necrotic moonlight strikes the target and other nearby units. Leaves behind frozen ground.</content>
 </contentList>

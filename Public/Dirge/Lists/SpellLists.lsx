@@ -11,7 +11,7 @@
 				</node>
         <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Dirge Level 4" />
-                    <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade" />
+                    <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade;Projectile_BadMoon" />
                     <attribute id="UUID" type="guid" value="5e3e1291-8a2e-4fff-b829-fe3d4e8835e2" />
         </node>s
         <node id="SpellList">
